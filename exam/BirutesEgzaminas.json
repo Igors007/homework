@@ -1,0 +1,54 @@
+{
+  "student": {
+    "id": "1",
+    "name": "Birute",
+    "surname": "Pusis"
+  },
+  "exam": {
+    "id": "1",
+    "title": "OOP pagrindai",
+    "type": "TESTAS"
+  },
+  "answers": [
+    {
+      "question": 1,
+      "answer": "d"
+    },
+    {
+      "question": 2,
+      "answer": "c"
+    },
+    {
+      "question": 3,
+      "answer": "d"
+    },
+    {
+      "question": 4,
+      "answer": "c"
+    },
+    {
+      "question": 5,
+      "answer": "a"
+    },
+    {
+      "question": 6,
+      "answer": "b"
+    },
+    {
+      "question": 7,
+      "answer": "b"
+    },
+    {
+      "question": 8,
+      "answer": "a"
+    },
+    {
+      "question": 9,
+      "answer": "c"
+    },
+    {
+      "question": 10,
+      "answer": "c"
+    }
+  ]
+}
